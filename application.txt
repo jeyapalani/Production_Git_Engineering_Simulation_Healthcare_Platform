@@ -52,3 +52,8 @@ Patient Data Protection
 - Patient data must be protected from unauthorized access.
 - Access to protected patient information must follow approved data-protection controls.
 --------------------------------------------------------------------- J
+
+Appointment History Details
+- Patients can review detailed history for previous appointments.
+- Appointment history details can be displayed with the corresponding appointment record.
+--------------------------------------------------------------------- I
