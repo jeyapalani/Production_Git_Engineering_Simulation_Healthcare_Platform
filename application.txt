@@ -46,3 +46,9 @@ Appointment Notifications
 Appointment Status
 - Appointments can have a defined lifecycle status.
 - Appointment status changes can be recorded.
+--------------------------------------------------------------------- H
+
+Patient Data Protection
+- Patient data must be protected from unauthorized access.
+- Access to protected patient information must follow approved data-protection controls.
+--------------------------------------------------------------------- J
